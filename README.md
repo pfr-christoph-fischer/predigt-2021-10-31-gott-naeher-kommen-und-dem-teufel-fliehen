@@ -1,0 +1,3 @@
+# Gott näher kommen und dem Teufel fliehen
+
+[Engele]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ihr habt auf spielerische Weise Pfeile auf den Teufel geworfen. Ideen gesammelt, wie ihr den Teufel bekämpfen könnt. Luther hat ein Leben lang mit dem Teufel gerungen. [Fischer…
