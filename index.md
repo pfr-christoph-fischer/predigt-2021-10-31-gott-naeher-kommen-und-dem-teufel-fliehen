@@ -6,7 +6,7 @@ slug: gott-naeher-kommen-und-dem-teufel-fliehen
 summary: "[Engele]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ihr habt auf spielerische Weise Pfeile auf den Teufel geworfen. Ideen gesammelt, wie ihr den Teufel bekämpfen könnt. Luther hat ein Leben lang mit dem Teufel gerungen. [Fischer…"
 source: pfarrplaner
 source_id: "210@www.pfarrplaner.de"
-cover: cover.jpg
+cover: gott-naeher-kommen-und-dem-teufel-fliehen.jpg
 cover_alt: "Titelbild zur Predigt \"Gott näher kommen und dem Teufel fliehen\"."
 legacy_id: 210
 events:
